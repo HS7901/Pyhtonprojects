@@ -1,0 +1,8 @@
+#Beginners name creation game in python 
+print("Welcome to the random name creation seciton")
+n = input("What is your name of your place of birth?")
+P = input("What was the last food item you ate?")
+print("Suggested name:" + n + p + ".")
+
+
+#Name creation by shuffling the words in the name
